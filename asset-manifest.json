@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my_website/static/css/main.ca46d773.css",
+    "main.js": "/my_website/static/js/main.3ccd1b91.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/my_website/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/about.jpg": "/my_website/static/media/about.152e1c330b867427b923.jpg",
+    "static/media/rohini.jpg": "/my_website/static/media/rohini.e41722bc2eb4511f2364.jpg",
+    "static/media/project1.jpeg": "/my_website/static/media/project1.44161f7f1eb4e77ee3ec.jpeg",
+    "static/media/project2.jpeg": "/my_website/static/media/project2.2128de6bad0431959af3.jpeg",
+    "static/media/project4.jpeg": "/my_website/static/media/project4.6f14409f055cd07d96d0.jpeg",
+    "index.html": "/my_website/index.html",
+    "main.ca46d773.css.map": "/my_website/static/css/main.ca46d773.css.map",
+    "main.3ccd1b91.js.map": "/my_website/static/js/main.3ccd1b91.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/my_website/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca46d773.css",
+    "static/js/main.3ccd1b91.js"
+  ]
+}
