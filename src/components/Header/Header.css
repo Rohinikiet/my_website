@@ -187,8 +187,8 @@
 
   .header-profile-photo {
       /* Adjust styles for smaller profile photo on tablets */
-      width: 150px;
-      height: 150px;
+      width: 100px;
+      height: 100px;
   }
 
   .header-text {
