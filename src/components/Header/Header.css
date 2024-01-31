@@ -174,3 +174,59 @@
   .social-link p {
     margin-top: 10px;
   }
+
+  
+/* Media Queries for responsiveness */
+
+@media only screen and (max-width: 768px) {
+  /* Adjust styles for smaller screens (tablets) */
+
+  .header {
+      height: auto; /* Adjust the height as needed */
+  }
+
+  .header-profile-photo {
+      /* Adjust styles for smaller profile photo on tablets */
+      width: 150px;
+      height: 150px;
+  }
+
+  .header-text {
+      /* Adjust margins and spacing for smaller screens */
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 20px;
+  }
+
+  .header-buttons {
+      top: 10px;
+      right: 10px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  /* Adjust styles for even smaller screens (phones) */
+
+  .header {
+      height: auto; /* Adjust the height as needed */
+  }
+
+  .header-profile-photo {
+      /* Adjust styles for smaller profile photo on phones */
+      width: 100px;
+      height: 100px;
+  }
+
+  .header-text {
+      /* Adjust margins and spacing for smaller screens */
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 10px;
+  }
+
+  .header-buttons {
+      top: 5px;
+      right: 5px;
+  }
+}
+
