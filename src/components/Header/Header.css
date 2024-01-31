@@ -61,15 +61,15 @@
   }
   
   /* Styles for the profile photo */
-  .header-profile-photo {
-    width: 270px; /* Adjust the size as needed */
-    height: 300px; /* Adjust the size as needed */
-    border-radius: 100%;
-    /* Make it circular */
-    filter: drop-shadow(0 0 15px rgba(0, 0, 0, 0.3)); /* Add a drop shadow to the photo */
-    position: relative; /* For absolute positioning of the light element */
-    margin-top: 100px;
-  }
+.header-profile-photo {
+  width: 270px; /* Adjust the size as needed */
+  height: 300px; /* Adjust the size as needed */
+  border-radius: 100%;
+  /* Make it circular */
+  filter: drop-shadow(0 0 15px rgba(0, 0, 0, 0.3)); /* Add a drop shadow to the photo */
+  position: relative; /* For absolute positioning of the light element */
+  margin-top: 100px;
+}
   
   /* Styles for the light element (animated) */
   .light {
@@ -186,9 +186,9 @@
   }
 
   .header-profile-photo {
-      /* Adjust styles for smaller profile photo on tablets */
-      width: 100px;
-      height: 100px;
+    width: 150px; /* Adjust the size for smaller screens */
+    height: 150px; /* Adjust the size for smaller screens */
+    margin-top: 50px;
   }
 
   .header-text {
@@ -212,9 +212,9 @@
   }
 
   .header-profile-photo {
-      /* Adjust styles for smaller profile photo on phones */
-      width: 100px;
-      height: 100px;
+    width: 100px; /* Further adjust the size for even smaller screens */
+    height: 100px; /* Further adjust the size for even smaller screens */
+    margin-top: 30px; 
   }
 
   .header-text {
